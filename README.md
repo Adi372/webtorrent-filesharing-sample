@@ -17,11 +17,6 @@ name of a cmdlet, function, script file, or operable program.
 Check the spelling of the name, or if a path was included, 
 verify that the path is correct and try again.
 At line:1 char:1
-+ live-server public/
-+ ~~~~~~~~~~~
-    + CategoryInfo          : ObjectNotFound: (live-server:Str 
-   ing) [], CommandNotFoundException
-    + FullyQualifiedErrorId : CommandNotFoundException
 
 
 Then run the command: npm install -g live-server
