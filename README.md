@@ -1,12 +1,6 @@
 FILE STRUCTURE:
 
-p2p-file-sharing/
-│── public/                # Run live-server inside this folder!
-│   │── index.html         # Sender UI (must exist)
-│   │── receiver.html      # Receiver UI (must exist)
-│   │── sender.js          # Sender logic
-│   │── receiver.js        # Receiver logic
-│   │── style.css          # CSS styles
+"p2p-file-sharing" folder -> "public" folder -> index.html, receiver.html, sender.js, receiver.js, style.css
 
 Run the following command in terminal:
 npx live-server public/
